@@ -4,6 +4,7 @@
     list-style: none;
     height: fit-content;
     margin: 0 0 24px 48px;
+    width: fit-content;
 }
 
 @media screen and (max-width: 767px) {
