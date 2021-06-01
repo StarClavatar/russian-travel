@@ -1,11 +1,10 @@
 .photo-grid {
-    margin: 0;
-    margin: 92px auto 0;
+    margin: 92px auto 0 auto;
     max-width: 1184px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(274px, 1fr));
-    gap: 16px;
     grid-auto-columns: 0px;
+    gap: 16px;
 }
 
 @media screen and (max-width: 1279px) {
